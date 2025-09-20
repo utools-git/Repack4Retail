@@ -1,6 +1,8 @@
 # Repack 4 Retail
 
-A .NET C# rewrite/port of Slluxx's repacker. A usable build is in the "build" folder.
+A .NET C# rewrite/port of Slluxx's repacker.
+
+Check the releases for a build.
 
 # How to setup
 
